@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38068
     wikipedia: http://en.wikipedia.org/wiki/Adolphus_Greely
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39108#True-Tales-of-Arctic-Heroism-in-the-New-World
 gutenberg_issued: '2012-03-11'
 gutenberg_type: Text
 identifiers:
