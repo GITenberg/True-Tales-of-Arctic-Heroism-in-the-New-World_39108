@@ -1,0 +1,31 @@
+_repo: True-Tales-of-Arctic-Heroism-in-the-New-World_39108
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39108-h/images/coverh.jpg
+creator:
+  author:
+    agent_name: Greely, A. W. (Adolphus Washington)
+    aliases:
+    - Greely, Adolphus W. (Adolphus Washington)
+    - Greely, Adolphus Washington
+    birthdate: 1844
+    deathdate: 1935
+    gutenberg_agent_id: '38068'
+    url: http://www.gutenberg.org/2009/agents/38068
+    wikipedia: http://en.wikipedia.org/wiki/Adolphus_Greely
+description: ''
+gutenberg_issued: '2012-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39108'
+  lccn: '12023729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions'
+- !lcc 'G'
+title: True Tales of Arctic Heroism in the New World
+url: http://www.gutenberg.org/ebooks/39108
